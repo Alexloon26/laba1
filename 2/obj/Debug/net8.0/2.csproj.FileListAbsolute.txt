@@ -1,0 +1,17 @@
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\2.exe
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\2.deps.json
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\2.runtimeconfig.json
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\2.dll
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\2.pdb
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.dll
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\refint\2.dll
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.pdb
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\ref\2.dll
+C:\Users\Alexandr\source\repos\2semlaba1\2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.csproj.AssemblyReference.cache
+C:\Users\Alexandr\source\repos\2semlaba1\2\obj\Debug\net8.0\2.csproj.CopyComplete
